@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConexionAPIHuachitos</string>
+    <string name="api_error">Existe un problema con el recurso</string>
+    <string name="api_instruction">Presiona el boton Obtener</string>
+    <string name="btn_getinfo">Mostrar mascotas</string>
+    <string name="titulo">HUACHITOS</string>
+
+</resources>
